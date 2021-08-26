@@ -1,0 +1,1 @@
+#### TypeScript 는 strong-Type Language 이다.
